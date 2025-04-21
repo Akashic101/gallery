@@ -47,7 +47,11 @@ url: https://eleventy-gallery.netlify.app
                     %}
                     <div class="image-description">
                         <h1 class="h2">{{ image.title }}</h1>
-                        <p>{{ image.credit }} on <a class="credit" href="{{ image.linkToAuthor }}">Pexels</a></p>
+                        <p>{{ image.credit }}
+                            {% if image.linkToAuthor %}
+                                on <a class="credit" href="{{ image.linkToAuthor }}">Pexels</a>
+                            {% endif %}
+                        </p>                        
                     </div>
                     <div class="prev-next">
                         {% if pagination.href.previous %}
