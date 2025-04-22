@@ -4,7 +4,7 @@ pagination:
     size: 1
     alias: image
 permalink: "/gallery/{{ image.title | slug }}/"
-url: https://eleventy-gallery.netlify.app
+url: https://gallery.davidmoll.net
 ---
 <!DOCTYPE html>
 <html lang="en-US" dir="ltr">
@@ -52,6 +52,12 @@ url: https://eleventy-gallery.netlify.app
                             {% endif %}
                         </p>                        
                     </div>
+                    <a href="{{ url + image.imgDir + image.src }}" 
+   target="_blank" 
+   rel="noopener noreferrer" 
+   class="view-full-btn">
+   View Full Quality Image
+</a>
                     <div class="prev-next">
                         {% if pagination.href.previous %}
                             <a class="prev" href="{{ pagination.href.previous }}"><span class="lt">&lt;</span> Prev</a>
