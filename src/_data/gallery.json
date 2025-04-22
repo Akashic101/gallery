@@ -5,6 +5,7 @@
     "credit": "Photo by David Moll",
     "src": "DSC02281.jpg",
     "alt": "A drake mallard diving with its head underwater",
+    "fact": "Male Mallards have vibrant green heads—but they molt after breeding season and look like females for a while!",
     "imgDir": "/images/"
   },
   {
@@ -13,6 +14,7 @@
     "credit": "Photo by David Moll",
     "src": "DSC02594.jpg",
     "alt": "A female house sparrow perched on a branch",
+    "fact": "These little city birds have lived alongside humans for thousands of years—some nests even show up in traffic lights!",
     "imgDir": "/images/"
   },
   {
@@ -21,14 +23,34 @@
     "credit": "Photo by David Moll",
     "src": "DSC02626.jpg",
     "alt": "A willow warbler hiding in a tree full of leaves",
+    "fact": "It’s one of Europe’s longest-distance migrants—flying over 10,000 km to sub-Saharan Africa each year!",
     "imgDir": "/images/"
   },
   {
-    "title": "Yellow wagtail sitting by the river",
+    "title": "Eurasian yellow wagtail sitting by the river",
     "date": "April 21, 2025",
     "credit": "Photo by David Moll",
     "src": "DSC02641.jpg",
     "alt": "A yellow wagtail sitting on a rock by the river",
+    "fact": "True to its name, it constantly wags its tail—possibly to flush out insects from grass.",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "Eurasian blue tit sitting on top of a black alder",
+    "date": "April 21, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC02650.jpg",
+    "alt": "A eurasian blue tit sitting on top of a black alder",
+    "fact": " These smart birds can remember which milk bottles had cream—famously pecking through foil lids in the UK!",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "Eurasian blackcap hiding in a dense tree",
+    "date": "April 21, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC02662.jpg",
+    "alt": "A eurasian blackcap hiding in a dense tree",
+    "fact": "Some Eurasian Blackcaps now migrate to the UK for winter instead of the Mediterranean—evolving new traits thanks to garden bird feeders!",
     "imgDir": "/images/"
   }
 ]
