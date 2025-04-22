@@ -1,0 +1,28 @@
+---
+layout: main.njk
+title: All Tags
+permalink: "tags/"
+eleventyNavigation:
+  key: Tags
+  order: 3
+heading: Tags
+---
+
+<div class="gallery">
+
+  <h1>All Tags</h1>
+  <ul>
+    {%- set allTags = [] %}
+    {%- for item in gallery %}
+    {%- for tag in item.tags %}
+    {%- if tag not in allTags %}
+    {%- set allTags = allTags.concat(tag) %}
+    {%- endif %}
+    {%- endfor %}
+    {%- endfor %}
+    
+    {%- for tag in allTags | sort %}
+    <li><a href="/tags/{{ tag | slug }}/">{{ tag }}</a></li>
+    {%- endfor %}
+  </ul>
+</div>
