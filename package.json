@@ -1,6 +1,6 @@
 {
   "name": "eleventy-photo-gallery",
-  "version": "1.3.0",
+  "version": "1.0.0",
   "description": "A photo gallery starter kit built with the static site generator Eleventy",
   "main": ".eleventy.js",
   "scripts": {
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tannerdolby/eleventy-photo-gallery.git"
+    "url": "git+https://github.com/akashic101/gallery.git"
   },
   "bugs": {
-    "url": "https://github.com/tannerdolby/eleventy-photo-gallery/issues"
+    "url": "https://github.com/akashic101/gallery/issues"
   },
   "author": {
-    "name": "Tanner Dolby",
-    "url": "https://github.com/tannerdolby"
+    "name": "David Moll",
+    "url": "https://github.com/akashic101"
   },
   "keywords": [
     "Photo Gallery",
@@ -30,7 +30,7 @@
     "Eleventy",
     "11ty"
   ],
-  "homepage": "https://github.com/tannerdolby/eleventy-photo-gallery#readme",
+  "homepage": "https://github.com/akashic101/gallery#readme",
   "license": "MIT",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
