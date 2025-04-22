@@ -52,5 +52,59 @@
     "alt": "A eurasian blackcap hiding in a dense tree",
     "fact": "Some Eurasian Blackcaps now migrate to the UK for winter instead of the Mediterranean—evolving new traits thanks to garden bird feeders!",
     "imgDir": "/images/"
+  },
+  {
+    "title": "Drake mallard looking down a river",
+    "date": "April 21, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC02678.jpg",
+    "alt": "A drake mallard sitting at the edge of a river on top of some stones looking down said river",
+    "fact": "That classic “quack” sound? It’s actually the female Mallard! Drakes are mostly quiet or make softer raspy sounds. So if you hear a loud quack—it’s probably not the guy!",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "Eurasian blackcap looking for food",
+    "date": "April 21, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC02693.jpg",
+    "alt": "A eurasian blackcap sitting in a tree looking out for food",
+    "fact": "Despite its name, only the males have the signature black cap—females wear a reddish-brown one instead.",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "Male blackbird hiding in the grass",
+    "date": "April 21, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC02706.jpg",
+    "alt": "A male blackbird hiding in thick grass",
+    "fact": "Male blackbirds can be super territorial—they’ll fiercely chase off rivals and even attack their own reflection thinking it's an intruder!",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "Female blackbird collecting moss",
+    "date": "April 21, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC02720.jpg",
+    "alt": "A female blackbird collecting moss in its beak",
+    "fact": "Female blackbirds often start building the nest alone and can complete it in just a few days using grass, mud, and twigs.",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "European red robin sitting on his throne",
+    "date": "April 21, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC02764.jpg",
+    "alt": "A european red robin sitting on top of a tree-stump",
+    "fact": "Despite their cute look, robins are surprisingly fierce—they’re super territorial and will even fight to the death over their patch of land!",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "Drake mallard balancing on one leg",
+    "date": "April 21, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC02772.jpg",
+    "alt": "A european red robin sitting on top of a tree-stump",
+    "fact": "Drake mallards often stand on one leg to help conserve body heat. By tucking one leg into their feathers, they minimize heat loss, especially in colder environments.",
+    "imgDir": "/images/"
   }
 ]
