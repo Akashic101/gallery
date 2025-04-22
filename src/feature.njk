@@ -10,16 +10,9 @@ url: https://gallery.davidmoll.net
 <!DOCTYPE html>
 <html lang="en-US" dir="ltr">
   <head>
-    {% metagen
-        title=image.title,
-        desc=image.alt,
-        url=url,
-        img=url + image.imgDir + image.src,
-        img_alt=image.alt,
-        name='David Moll',
-        generator='eleventy',
-        comments=false
-      %}
+    {% metagen title=image.title, desc=image.alt, url=url, img=url +
+    image.imgDir + image.src, img_alt=image.alt, name='David Moll',
+    generator='eleventy', comments=false %}
     <link
       rel="apple-touch-icon"
       sizes="180x180"
@@ -66,6 +59,20 @@ url: https://gallery.davidmoll.net
             class="view-full-btn">
             View Full Quality Image
           </a>
+          {% if image.tags %}
+          <div class="similar-tags">
+            <h2 class="h3">Similar tags:</h2>
+            <ul class="tag-list">
+              {% for tag in image.tags %}
+              <li>
+                <a class="tag-button" href="/tags/{{ tag | slug }}/">
+                  {{ tag }}
+                </a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
           <div class="prev-next">
             {% if pagination.href.previous %}
             <a class="prev" href="{{ pagination.href.previous }}">
