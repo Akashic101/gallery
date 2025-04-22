@@ -9,12 +9,111 @@
     "imgDir": "/images/"
   },
   {
+    "title": "House sparrows surveying the area",
+    "date": "April 20, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC00165.jpg",
+    "alt": "Two house sparrows sitting on a branch, each facing a different direction",
+    "fact": "House sparrows take dust baths instead of water baths! They'll find a patch of dry dirt, create a shallow depression, and vigorously flap around in it to coat their feathers with dust. This helps them control parasites and maintain healthy plumage.",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "Nutria gliding through the water",
+    "date": "April 20, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC00259.jpg",
+    "alt": "A nutria swimming through the shallow water",
+    "fact": "Nutrias (coypu) have bright orange-yellow front teeth! This distinctive coloration comes from iron compounds in their tooth enamel, which makes their incisors stronger for gnawing tough vegetation. Unlike many rodents whose teeth might appear yellowish from staining, the nutria's orange teeth are naturally that color from the inside out.",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "Eurasian blue tit hanging from a tree",
+    "date": "April 20, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC00304.jpg",
+    "alt": "A eurasian blue tit hanging effortlessly from a tree-branch",
+    "fact": "Eurasian Blue Tits have incredible memories! They can hide up to 80,000 food items in different locations during autumn and remember where they stored them throughout winter.",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "European red robin singing his song",
+    "date": "April 20, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC00386.jpg",
+    "alt": "A european red robin loudly singing on top of a tree",
+    "fact": "European Robins can see magnetic fields! They have special proteins in their eyes called cryptochromes that allow them to literally see Earth's magnetic field as a pattern of light and shadow superimposed on their vision.",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "White-throated dipper sitting in a river",
+    "date": "April 20, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC00402.jpg",
+    "alt": "A white-throated dipper sitting in a river looking for food",
+    "fact": "The White-throated Dipper is Europe's only aquatic songbird! It can actually walk underwater along stream beds hunting for food. These remarkable birds have special flaps that close over their nostrils when submerged, extra-dense feathers for insulation, and powerful wings that they use to swim through fast-flowing water.",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "Chiffchaff looking down from a tree",
+    "date": "April 20, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC00488.jpg",
+    "alt": "A chiffchaff looking down from a tree",
+    "fact": "Chiffchaffs and Willow Warblers are so similar in appearance that they were once thought to be the same species! Both are small, olive-brown warblers with pale underparts and slight eyebrow stripes.",
+    "imgDir": "/images/"
+  },
+  {
     "title": "Drake Mallard taking a dive",
     "date": "April 21, 2025",
     "credit": "Photo by David Moll",
     "src": "DSC02281.jpg",
     "alt": "A drake mallard diving with its head underwater",
     "fact": "Male Mallards have vibrant green heads—but they molt after breeding season and look like females for a while!",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "Blackbird looking at his next meal",
+    "date": "April 21, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC02290.jpg",
+    "alt": "A male blackbird sitting in a tree looking directly at an insect flying infront of him",
+    "fact": "Blackbirds have remarkable problem-solving abilities! They've been observed using tools in the wild - using stones to crack snail shells and strips of newspaper to drag food toward them.",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "Chiffchaff sitting in a fir tree",
+    "date": "April 20, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC02308.jpg",
+    "alt": "A small chiffchaff sitting in a fir tree",
+    "fact": "Chiffchaffs are remarkable seasonal timekeepers! They're often called calendar birds in some European countries because they arrive and depart with such predictable timing that people historically used them to mark the changing seasons.",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "Moorhen stretching its leg",
+    "date": "April 20, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC02342.jpg",
+    "alt": "A moorhen sitting in a river stretching its left leg",
+    "fact": "Moorhens have extraordinarily versatile feet! Unlike most birds, they can swim, walk on floating vegetation, climb trees, and even grasp branches with their exceptionally long toes that have no webbing.",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "Eurasian yellow wagtail after a successful hunt",
+    "date": "April 20, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC02480.jpg",
+    "alt": "A eurasian yellow wagtail sitting on some rocks next to a river with its beak full of insects",
+    "fact": "Despite weighing only about 20 grams, these tiny birds make extraordinary migrations between Europe and sub-Saharan Africa, with some individuals traveling over 12,000 km round trip each year.",
+    "imgDir": "/images/"
+  },
+  {
+    "title": "German Shephard waiting for her next command",
+    "date": "April 20, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC02520.jpg",
+    "alt": "A german shepard mix waiting for her next command with open ears",
+    "fact": "German Shepherds have an incredible sense of smell with over 225 million scent receptors (humans have only about 5 million). This extraordinary ability allows them to detect odors at concentrations nearly 100,000 times lower than humans can perceive.",
     "imgDir": "/images/"
   },
   {
