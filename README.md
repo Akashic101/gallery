@@ -19,7 +19,7 @@ Quickly generate a highly performant photo gallery from this template by clickin
 - CSS preprocessor SCSS
 
 ## Local Setup
-1. Clone this repo: `git clone https://github.com/tannerdolby/eleventy-photo-gallery.git`
+1. Clone this repo: `git clone https://github.com/akashic101/gallery.git`
 2. Navigate to your local copy of the project: `cd eleventy-photo-gallery`
 3. Install dependencies: `npm install`
 4. Build: `npm run build`
@@ -85,5 +85,5 @@ _Read more about loading members and namespaces here in [Sass docs](https://sass
 ## Contributing 
 Feel free to report any issues and submit feature requests. I built this template for others to use so don't hesitate to let me know what you'd like to see added or modified.
 
-- Open an [issue](https://github.com/tannerdolby/11ty-photo-gallery/issues) for any bugs or feature requests! 
-- Have a look at the [contributing guidelines](https://github.com/tannerdolby/11ty-photo-gallery/blob/master/CONTRIBUTING.md) before submitting a PR!
+- Open an [issue](https://github.com/akashic101/gallery/issues) for any bugs or feature requests! 
+- Have a look at the [contributing guidelines](https://github.com/akashic101/gallery/blob/master/CONTRIBUTING.md) before submitting a PR!
