@@ -6,7 +6,8 @@
     "src": "DSC00144.jpg",
     "alt": "A house sparrow sitting on a branch of dry wild angelica",
     "fact": "House sparrows are excellent city birds—they’ve learned to open automatic doors by hopping on sensors and often hang out near cafés to snag crumbs!",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "house sparrow"]
   },
   {
     "title": "House sparrows surveying the area",
@@ -15,7 +16,8 @@
     "src": "DSC00165.jpg",
     "alt": "Two house sparrows sitting on a branch, each facing a different direction",
     "fact": "House sparrows take dust baths instead of water baths! They'll find a patch of dry dirt, create a shallow depression, and vigorously flap around in it to coat their feathers with dust. This helps them control parasites and maintain healthy plumage.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "house sparrow"]
   },
   {
     "title": "Nutria gliding through the water",
@@ -24,7 +26,8 @@
     "src": "DSC00259.jpg",
     "alt": "A nutria swimming through the shallow water",
     "fact": "Nutrias (coypu) have bright orange-yellow front teeth! This distinctive coloration comes from iron compounds in their tooth enamel, which makes their incisors stronger for gnawing tough vegetation. Unlike many rodents whose teeth might appear yellowish from staining, the nutria's orange teeth are naturally that color from the inside out.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "mammal", "nutria"]
   },
   {
     "title": "Eurasian blue tit hanging from a tree",
@@ -33,7 +36,8 @@
     "src": "DSC00304.jpg",
     "alt": "A eurasian blue tit hanging effortlessly from a tree-branch",
     "fact": "Eurasian Blue Tits have incredible memories! They can hide up to 80,000 food items in different locations during autumn and remember where they stored them throughout winter.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "blue tit"]
   },
   {
     "title": "European red robin singing his song",
@@ -42,7 +46,8 @@
     "src": "DSC00386.jpg",
     "alt": "A european red robin loudly singing on top of a tree",
     "fact": "European Robins can see magnetic fields! They have special proteins in their eyes called cryptochromes that allow them to literally see Earth's magnetic field as a pattern of light and shadow superimposed on their vision.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "robin"]
   },
   {
     "title": "White-throated dipper sitting in a river",
@@ -51,7 +56,8 @@
     "src": "DSC00402.jpg",
     "alt": "A white-throated dipper sitting in a river looking for food",
     "fact": "The White-throated Dipper is Europe's only aquatic songbird! It can actually walk underwater along stream beds hunting for food. These remarkable birds have special flaps that close over their nostrils when submerged, extra-dense feathers for insulation, and powerful wings that they use to swim through fast-flowing water.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "dipper"]
   },
   {
     "title": "Chiffchaff looking down from a tree",
@@ -60,7 +66,8 @@
     "src": "DSC00488.jpg",
     "alt": "A chiffchaff looking down from a tree",
     "fact": "Chiffchaffs and Willow Warblers are so similar in appearance that they were once thought to be the same species! Both are small, olive-brown warblers with pale underparts and slight eyebrow stripes.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "chiffchaff"]
   },
   {
     "title": "Drake Mallard taking a dive",
@@ -69,7 +76,8 @@
     "src": "DSC02281.jpg",
     "alt": "A drake mallard diving with its head underwater",
     "fact": "Male Mallards have vibrant green heads—but they molt after breeding season and look like females for a while!",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "mallard"]
   },
   {
     "title": "Blackbird looking at his next meal",
@@ -78,7 +86,8 @@
     "src": "DSC02290.jpg",
     "alt": "A male blackbird sitting in a tree looking directly at an insect flying infront of him",
     "fact": "Blackbirds have remarkable problem-solving abilities! They've been observed using tools in the wild - using stones to crack snail shells and strips of newspaper to drag food toward them.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "blackbird"]
   },
   {
     "title": "Chiffchaff sitting in a fir tree",
@@ -87,7 +96,8 @@
     "src": "DSC02308.jpg",
     "alt": "A small chiffchaff sitting in a fir tree",
     "fact": "Chiffchaffs are remarkable seasonal timekeepers! They're often called calendar birds in some European countries because they arrive and depart with such predictable timing that people historically used them to mark the changing seasons.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "chiffchaff"]
   },
   {
     "title": "Moorhen stretching its leg",
@@ -96,7 +106,8 @@
     "src": "DSC02342.jpg",
     "alt": "A moorhen sitting in a river stretching its left leg",
     "fact": "Moorhens have extraordinarily versatile feet! Unlike most birds, they can swim, walk on floating vegetation, climb trees, and even grasp branches with their exceptionally long toes that have no webbing.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "moorhen"]
   },
   {
     "title": "Eurasian yellow wagtail after a successful hunt",
@@ -105,7 +116,8 @@
     "src": "DSC02480.jpg",
     "alt": "A eurasian yellow wagtail sitting on some rocks next to a river with its beak full of insects",
     "fact": "Despite weighing only about 20 grams, these tiny birds make extraordinary migrations between Europe and sub-Saharan Africa, with some individuals traveling over 12,000 km round trip each year.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "yellow wagtail"]
   },
   {
     "title": "German Shephard waiting for her next command",
@@ -114,7 +126,8 @@
     "src": "DSC02520.jpg",
     "alt": "A german shepard mix waiting for her next command with open ears",
     "fact": "German Shepherds have an incredible sense of smell with over 225 million scent receptors (humans have only about 5 million). This extraordinary ability allows them to detect odors at concentrations nearly 100,000 times lower than humans can perceive.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "mammal", "german shepherd"]
   },
   {
     "title": "House sparrow basking in the sun",
@@ -123,7 +136,8 @@
     "src": "DSC02594.jpg",
     "alt": "A female house sparrow perched on a branch",
     "fact": "These little city birds have lived alongside humans for thousands of years—some nests even show up in traffic lights!",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "house sparrow"]
   },
   {
     "title": "Willow Warbler hiding in a young tree",
@@ -132,7 +146,8 @@
     "src": "DSC02626.jpg",
     "alt": "A willow warbler hiding in a tree full of leaves",
     "fact": "It’s one of Europe’s longest-distance migrants—flying over 10,000 km to sub-Saharan Africa each year!",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "willow warbler"]
   },
   {
     "title": "Eurasian yellow wagtail sitting by the river",
@@ -141,7 +156,8 @@
     "src": "DSC02641.jpg",
     "alt": "A yellow wagtail sitting on a rock by the river",
     "fact": "True to its name, it constantly wags its tail—possibly to flush out insects from grass.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "yellow wagtail"]
   },
   {
     "title": "Eurasian blue tit sitting on top of a black alder",
@@ -150,7 +166,8 @@
     "src": "DSC02650.jpg",
     "alt": "A eurasian blue tit sitting on top of a black alder",
     "fact": " These smart birds can remember which milk bottles had cream—famously pecking through foil lids in the UK!",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "blue tit"]
   },
   {
     "title": "Eurasian blackcap hiding in a dense tree",
@@ -159,7 +176,8 @@
     "src": "DSC02662.jpg",
     "alt": "A eurasian blackcap hiding in a dense tree",
     "fact": "Some Eurasian Blackcaps now migrate to the UK for winter instead of the Mediterranean—evolving new traits thanks to garden bird feeders!",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "blackcap"]
   },
   {
     "title": "Drake mallard looking down a river",
@@ -168,7 +186,8 @@
     "src": "DSC02678.jpg",
     "alt": "A drake mallard sitting at the edge of a river on top of some stones looking down said river",
     "fact": "That classic “quack” sound? It’s actually the female Mallard! Drakes are mostly quiet or make softer raspy sounds. So if you hear a loud quack—it’s probably not the guy!",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "mallard"]
   },
   {
     "title": "Eurasian blackcap looking for food",
@@ -177,7 +196,8 @@
     "src": "DSC02693.jpg",
     "alt": "A eurasian blackcap sitting in a tree looking out for food",
     "fact": "Despite its name, only the males have the signature black cap—females wear a reddish-brown one instead.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "blackcap"]
   },
   {
     "title": "Male blackbird hiding in the grass",
@@ -186,7 +206,8 @@
     "src": "DSC02706.jpg",
     "alt": "A male blackbird hiding in thick grass",
     "fact": "Male blackbirds can be super territorial—they’ll fiercely chase off rivals and even attack their own reflection thinking it's an intruder!",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "blackbird"]
   },
   {
     "title": "Female blackbird collecting moss",
@@ -195,7 +216,8 @@
     "src": "DSC02720.jpg",
     "alt": "A female blackbird collecting moss in its beak",
     "fact": "Female blackbirds often start building the nest alone and can complete it in just a few days using grass, mud, and twigs.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "blackbird"]
   },
   {
     "title": "European red robin sitting on his throne",
@@ -204,7 +226,8 @@
     "src": "DSC02764.jpg",
     "alt": "A european red robin sitting on top of a tree-stump",
     "fact": "Despite their cute look, robins are surprisingly fierce—they’re super territorial and will even fight to the death over their patch of land!",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "robin"]
   },
   {
     "title": "Drake mallard balancing on one leg",
@@ -213,6 +236,7 @@
     "src": "DSC02772.jpg",
     "alt": "A european red robin sitting on top of a tree-stump",
     "fact": "Drake mallards often stand on one leg to help conserve body heat. By tucking one leg into their feathers, they minimize heat loss, especially in colder environments.",
-    "imgDir": "/images/"
+    "imgDir": "/images/",
+    "tags": ["animal", "bird", "mallard"]
   }
 ]
