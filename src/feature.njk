@@ -15,8 +15,6 @@ url: https://eleventy-gallery.netlify.app
             url=url + "/gallery/" + image.title | slug + "/",
             img=url + image.imgDir + image.src,
             img_alt=image.alt,
-            twitter_card_type='summary_large_image',
-            twitter_handle=site.author.twitterHandle,
             name=site.author.firstName + " " + site.author.lastName,
             generator="Eleventy v2.0.1",
             comments=true

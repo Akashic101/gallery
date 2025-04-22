@@ -3,14 +3,13 @@
         "firstName": "David",
         "lastName": "Moll",
         "email": "contact@davidmoll.net",
-        "twitterHandle": "tannerdolby",
+        "bleuSkyHandle": "davidmoll.net",
         "about": "Hobby photographer and web developer. Love to take pictures of birds, nature and motorsport."
     },
     "socials": {
-        "twitter": "https://twitter.com/tannerdolby",
-        "linkedin": "https://linkedin.com/in/tanner-dolby",
-        "dribbble": "https://dribbble.com/tannerdolby",
-        "github": "https://github.com/tannerdolby"
+        "bluesky": "https://bsky.app/profile/davidmoll.net",
+        "linkedin": "https://www.linkedin.com/in/david-moll-3371511a1/",
+        "github": "https://github.com/akashic101"
     },
     "pageMetadata": {
         "home": {
