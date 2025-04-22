@@ -16,13 +16,13 @@
             "content": "A photo gallery template with stock photos provided from Pexels. Add or remove images from the grid and customize your own image gallery!"
         },
         "gallery": {
-            "content": "A collection of images from John Smith's gallery."
+            "content": "A collection of images from David Moll's gallery."
         },
         "featured": {
-            "content": "from John Smith's gallery."
+            "content": "from David Moll's gallery."
         },
         "about": {
-            "content": "A page about John Smith, and photography. This template is currently the default version so add your own about me page info here."
+            "content": "A page about David Moll, and photography."
         }
 
     }
