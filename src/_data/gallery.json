@@ -9,13 +9,33 @@
     "imgDir": "/images/",
     "tags": ["sport", "aachen", "domspringen"]
   },
-    {
+  {
     "title": "Matt Ludwig (USA) mid-fall at the 20th NetAachen Domspringen",
     "date": "June 4, 2025",
     "credit": "Photo by David Moll",
     "src": "DSC04843.jpg",
     "alt": "Matt Ludwig at the 20th NetAachen Domspringen",
     "fact": "Matt Ludwig (FRA) finished 4th with a height of 5,65m",
+    "imgDir": "/images/",
+    "tags": ["sport", "aachen", "domspringen"]
+  },
+  {
+    "title": "Torben Blech (DEU) preparing to jump at the 20th NetAachen Domspringen",
+    "date": "June 4, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC04917.jpg",
+    "alt": "Torben Blech at the 20th NetAachen Domspringen",
+    "fact": "Torben Blech (DEU) finished 10th with a height of 5,20m",
+    "imgDir": "/images/",
+    "tags": ["sport", "aachen", "domspringen"]
+  },
+  {
+    "title": "Torben Blech (DEU) at the 20th NetAachen Domspringen",
+    "date": "June 4, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC04942.jpg",
+    "alt": "Torben Blech at the 20th NetAachen Domspringen",
+    "fact": "Torben Blech (DEU) finished 6th with a height of 5,55m",
     "imgDir": "/images/",
     "tags": ["sport", "aachen", "domspringen"]
   },
