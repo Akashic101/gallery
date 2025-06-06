@@ -1,11 +1,41 @@
 [
-    {
+  {
     "title": "Matt Ludwig (USA) at the 20th NetAachen Domspringen",
     "date": "June 4, 2025",
     "credit": "Photo by David Moll",
     "src": "DSC05193.jpg",
     "alt": "Matt Ludwig at the 20th NetAachen Domspringen",
     "fact": "Matt Ludwig (FRA) finished 4th with a height of 5,65m",
+    "imgDir": "/images/",
+    "tags": ["sport", "aachen", "domspringen"]
+  },
+    {
+    "title": "Matt Ludwig (USA) mid-fall at the 20th NetAachen Domspringen",
+    "date": "June 4, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC04843.jpg",
+    "alt": "Matt Ludwig at the 20th NetAachen Domspringen",
+    "fact": "Matt Ludwig (FRA) finished 4th with a height of 5,65m",
+    "imgDir": "/images/",
+    "tags": ["sport", "aachen", "domspringen"]
+  },
+  {
+    "title": "Hendrick Müller (DEU) mid-fall at the 20th NetAachen Domspringen",
+    "date": "June 4, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC04781.jpg",
+    "alt": "Hendrick Müller at the 20th NetAachen Domspringen",
+    "fact": "Hendrick Müller (DEU) finished 10th with a height of 5,20m",
+    "imgDir": "/images/",
+    "tags": ["sport", "aachen", "domspringen"]
+  },
+  {
+    "title": "Hendrick Müller (DEU) at the 20th NetAachen Domspringen",
+    "date": "June 4, 2025",
+    "credit": "Photo by David Moll",
+    "src": "DSC04582.jpg",
+    "alt": "Hendrick Müller at the 20th NetAachen Domspringen",
+    "fact": "Hendrick Müller (DEU) finished 10th with a height of 5,20m",
     "imgDir": "/images/",
     "tags": ["sport", "aachen", "domspringen"]
   },
