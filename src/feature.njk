@@ -45,12 +45,6 @@ url: https://gallery.davidmoll.net
           1000px) 100vw, 33.3vw" %}
           <div class="image-description">
             <h1 class="h2">{{ image.title }}</h1>
-            <i>{{ image.fact }}</i>
-            <p>
-              {{ image.credit }} {% if image.linkToAuthor %} on
-              <a class="credit" href="{{ image.linkToAuthor }}">Pexels</a>
-              {% endif %}
-            </p>
           </div>
           <a
             href="{{ url + image.imgDir + image.src }}"
