@@ -1,4 +1,44 @@
-[
+[ 
+  {
+    "title": "Phases of Totality during the 2026 Solar Eclipse",
+    "date": "August 19, 2026",
+    "credit": "Photo by David Moll",
+    "src": "2026-08-19-Solar-Eclipse-Square-Transition_v2.png",
+    "alt": "Phases of Totality during the 2026 Solar Eclipse",
+    "fact": "A total solar eclipse happens very rarely at any given location, with an average of once every 375 years",
+    "imgDir": "/images/",
+    "tags": ["astrophotography", "A Coruna", "Spain", "solar eclipse"]
+  },
+  {
+    "title": "Golden image of total solar eclipse",
+    "date": "August 19, 2026",
+    "credit": "Photo by David Moll",
+    "src": "2026-08-19-Solar-Eclipse-Golden.png",
+    "alt": "Golden image of total solar eclipse",
+    "fact": "The longest ever total solar eclipse was experienced on board of the Concorde in 1973, lasting 74 minutes",
+    "imgDir": "/images/",
+    "tags": ["astrophotography", "A Coruna", "Spain", "solar eclipse"]
+  },
+  {
+    "title": "Corona of total solar eclipse",
+    "date": "August 19, 2026",
+    "credit": "Photo by David Moll",
+    "src": "2026-08-19-Solar-Eclipse-Corona.png",
+    "alt": "Corona of total solar eclipse",
+    "fact": "The corona is the outermost layer of the Sun's atmosphere, visible during a total solar eclipse and around half a million °C hot",
+    "imgDir": "/images/",
+    "tags": ["astrophotography", "A Coruna", "Spain", "solar eclipse"]
+  },
+  {
+    "title": "Perseid meteor shower",
+    "date": "August 19, 2026",
+    "credit": "Photo by David Moll",
+    "src": "2026-08-19-Perseid-Meteor-Shower-Rectangle.png",
+    "alt": "Perseid meteor shower",
+    "fact": "The Perseid meteor shower is linked to the Swift-Tuttle comet, which orbits the Sun every 133 years",
+    "imgDir": "/images/",
+    "tags": ["astrophotography", "A Coruna", "Spain", "solar eclipse"]
+  },
   {
     "title": "A group of U17-cyclists preparing for the race",
     "date": "August 8, 2025",
